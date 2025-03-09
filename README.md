@@ -15,7 +15,7 @@ The content of this repository will be made publicly available once the associat
 
 
 ## Core code:
-- Find the optimal parameter set.py [[code]([http://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com](https://github.com/yayaliu-118/2024_CRP_LYY/blob/main/Find%20the%20optimal%20parameter%20set.py))]
+- Find the optimal parameter set.py [[code](https://github.com/yayaliu-118/2024_CRP_LYY/blob/main/Find%20the%20optimal%20parameter%20set.py)]
 - Non-consensus decision maker identification [[code]([https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html](https://github.com/yayaliu-118/2024_CRP_LYY/blob/main/Non-consensus%20decision%20maker%20identification.py))]
 
 ## Dependencies
