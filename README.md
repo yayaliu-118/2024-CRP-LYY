@@ -1,4 +1,4 @@
-# 2024 CRP LYY
+# 2024-CRP-LYY
 # Paper Title
 Automatic consensus models to balance consensus cost, consistency level and consensus degree with attitudinal trust mechanism
 
